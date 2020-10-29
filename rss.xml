@@ -1,0 +1,19 @@
+<rss version="2.0">
+<channel>moj
+<title>Vinarija Andjusic</title>
+<description>Sve što treba da znate o meni se nalazi ovde.</description>
+<link>biografija.html</link>
+<item>
+<title>Galerija</title>
+<description>
+Posetite nas i pogledajte slike iz našeg vinograda.
+</description>
+<link>galerija.html</link>
+</item>
+<item>
+<title>Kontaktirajte nas</title>
+<description>Kontaktirajte nas i ostavite poruđžbinu </description>
+<link>kontakt.html</link>
+</item>
+</channel>
+</rss>
